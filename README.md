@@ -279,7 +279,7 @@ npm run validate
 
 ```bash
 # 在 GitHub 上点 Fork，然后
-git clone https://github.com/<你的用户名>/music-hub-providers.git
+git clone https://github.com/xiesat/music-hub-providers.git
 cd music-hub-providers
 ```
 
