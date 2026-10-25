@@ -1,0 +1,16 @@
+MusicHub Providers
+Copyright (C) 2026 Xiesta
+
+本仓库整体以 GNU General Public License v3.0 发布（见 LICENSE）。
+
+例外说明
+========
+
+providers/lib/qq-sign/
+  内容：QQ 音乐网页端的签名算法代码（webpack 打包产物 sign.js / web_p.js）
+  来源：从公开的 QQ 音乐网页资源中提取，用于构造 musics.fcg 接口签名
+  性质：非本仓库原创，逆向所得
+  授权：不适用本仓库的 GPL-3.0 授权；随附目的仅为个人学习与研究
+  注意：若你分发包含该目录的副本，请自行评估所在地区的法律要求
+
+除此之外的所有插件源码均为本仓库作者原创，按 GPL-3.0 授权。
